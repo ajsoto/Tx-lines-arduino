@@ -18,7 +18,6 @@ This repository provides the code to replicate our results. Our goal was to expl
 
 ## Usage
 The following shows the schematic circuits needed to replicate our experiments (4 in total). For further details, please refer to the paper.
-<img src="./figures/Experiment1.jpg" alt="Experiment 1" width="100" height="100">
 ![Experiment 1](./figures/Experiment1.jpg)
 ![Experiment 2](./figures/Experiment2.jpg)
 ![Experiment 3](./figures/Experiment3.jpg)
@@ -26,4 +25,4 @@ The following shows the schematic circuits needed to replicate our experiments (
 
 ## Results
 
-<img src="./figures/Results.png" alt="Experiment 1" width="100" height="100">
+<img src="./figures/Results.png" alt="Results" width="100" height="100">
