@@ -25,4 +25,4 @@ The following shows the schematic circuits needed to replicate our experiments (
 
 ## Results
 
-<img src="./figures/Results.png" alt="Results" width="100" height="100">
+![Results](./figures/Results.png)
